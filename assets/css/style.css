@@ -127,7 +127,7 @@ footer a {
 }
 
 /* Media Queries */
-@media screen and (max-width 730px){
+@media screen and (max-width: 730px){
     body {
         color: black
     }
